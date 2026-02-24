@@ -33,7 +33,7 @@ Designed for production-grade security on Microsoft Azure.
 
 # 3️⃣ Architecture Specification
 
-...
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e44a647-f2ca-460a-96f5-f1653b2352ad" />
 
 ---
 
